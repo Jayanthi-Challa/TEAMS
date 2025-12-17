@@ -1,0 +1,4 @@
+reserve_id,lat,lon,patrol_frequency
+TR01,19.00,79.10,5
+TR01,19.20,79.30,3
+TR02,20.05,78.45,2
