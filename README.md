@@ -66,15 +66,17 @@ These steps generate processed datasets inside the data/processed folder.
 python app/app.py
 ```
 Open your browser and navigate to:
-```cpp
-http://127.0.0.1:5000/
-```
+[http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+
+---
 
 ## Key Outputs
 - merged_data.csv – merged and cleaned dataset
 - features.csv – engineered features including Tiger Success Index
 - Identified poaching risk clusters
 - Simple dashboard displaying overall effectiveness score
+
+---
 
 ## Future Improvements
 - Integrate real-time GIS and satellite imagery
@@ -83,5 +85,7 @@ http://127.0.0.1:5000/
 - Deploy on cloud infrastructure
 - Expand to additional conservation indicators
 
+---
+
 ## Author
-Jayanthi Challa"# TEAMS_AI_Project" 
+Jayanthi Challa
